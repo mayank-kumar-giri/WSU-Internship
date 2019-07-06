@@ -1,0 +1,10 @@
+<pre style="font-family:helvetica; font-size:25;">
+{% if valid==True %}
+The current weather in <b>{{data["name"]}}, {{s}} ({{sa}})</b> is <b>{{data["weather"][0]["description"].capitalize()}}</b> with -
+Temperature = {{data["main"]["temp"]}} C and Humidity = {{data["main"]["humidity"]}}%
+{% else %}
+Invalid entry!!
+{% endif %}
+</pre>
+<h2 style="font-family:helvetica;"><a href="http://127.0.0.1:5000/weather">Check for another ZIP Code</a></h2>
+<h2 style="font-family:helvetica;"><a href="http://127.0.0.1:5000/">Go back to Home Page</a></h2>

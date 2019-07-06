@@ -1,1 +1,0 @@
-CAPs describe potentially causal connections between input and output. For a feedforward neural network, the depth of the CAPs is that of the network and is the number of hidden layers plus one as the output layer is also parameterized.

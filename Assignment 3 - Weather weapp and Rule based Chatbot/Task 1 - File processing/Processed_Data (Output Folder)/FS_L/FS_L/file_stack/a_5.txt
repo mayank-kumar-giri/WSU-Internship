@@ -1,1 +1,0 @@
-The deep in deep learning refers to the number of layers through which the data is transformed. More precisely, deep learning systems have a substantial credit assignment path depth. The CAP is the chain of transformations from input to output.

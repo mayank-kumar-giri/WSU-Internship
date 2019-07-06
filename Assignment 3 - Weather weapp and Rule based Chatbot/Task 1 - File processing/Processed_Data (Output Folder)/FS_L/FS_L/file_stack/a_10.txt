@@ -1,1 +1,0 @@
-The term Deep Learning was introduced to the machine learning community by Rina Dechter in 1986,[24][13] and to artificial neural networks by Igor Aizenberg and colleagues in 2000, in the context of Boolean threshold neurons.

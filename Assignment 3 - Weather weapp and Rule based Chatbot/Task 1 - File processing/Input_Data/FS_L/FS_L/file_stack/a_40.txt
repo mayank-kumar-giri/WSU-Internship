@@ -1,1 +1,0 @@
- Beyond that more layers do not add to the function approximator ability of the network. Deep models are able to extract better features than shallow models and hence, extra layers help in learning features.
