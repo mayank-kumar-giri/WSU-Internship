@@ -4,7 +4,7 @@ from nltk.tokenize import word_tokenize
 
 if __name__== "__main__":
     orig_ques_sent_tokens, orig_ans_sent_tokens = utils.read_corpus()
-    ques_sent_tokens, ans_sent_tokens = utils.lemmatized_sentences(orig_ques_sent_tokens, orig_ans_sent_tokens)
+    ques_sent_tokens, ans_sent_tokens = utils.lemmatize_sentences(orig_ques_sent_tokens, orig_ans_sent_tokens)
     print("\nChatty: Hello there! This is Chatty!\n\tI'm a chatbot that answers questions related to\n\tAbraham Lincoln\n\n\tAsk me anything you'd like.\n\tEnter \"Exit\" when you wish to exit")
     while True:
         query = input()

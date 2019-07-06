@@ -43,7 +43,7 @@ def write_corpus(ques_sent_tokens, ans_sent_tokens):
     fp.writelines(ques_sent_tokens)
     fp.close()
 
-def lemmatized_sentences(orig_ques_sent_tokens, orig_ans_sent_tokens):
+def lemmatize_sentences(orig_ques_sent_tokens, orig_ans_sent_tokens):
     ques_sent_tokens = []
     ans_sent_tokens = []
     lemmatizer = WordNetLemmatizer()

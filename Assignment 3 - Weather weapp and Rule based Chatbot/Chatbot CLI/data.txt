@@ -1,19 +1,21 @@
-what is your name?     -x-     Its Chatty!
-what do you do?     -x-     I answer questions.
-how do you do?     -x-     I'm fine.
-what are you?     -x-     That's kinda rude to ask but i'm a chatbot.
-what's your favourite emotion?     -x-     Love! But i like all others as well.
-what is my name?     -x-     I'm sorry, I'm bad with names.
-was abraham lincoln the sixteenth president of the united states?     -x-     Yes, he was.
-when did lincoln begin his political career?     -x-     1832
-who suggested lincoln grow a beard?     -x-     11-year-old Grace Bedell
-was abraham lincoln the first president of the united states?     -x-     No, he wasn't.
-who assassinated lincoln?     -x-     John Wilkes Booth
-when was abraham lincoln born?     -x-     Abraham Lincoln was born on 12 February 1809 at Hodgenville, Kentucky, United States.
-who was abraham lincoln's father?     -x-     Thomas Lincoln
-did lincoln beat john c. breckinridge in the 1860 election?     -x-     Yes, he did.
-do you love me chatty?     -x-     I am not so sure. After all I'm just a chatbot.
-is abraham lincoln dead or still alive?     -x-     He was assassinated on 15 April 1865 at Petersen House, Washington, D.C., United States.
-who are you in reality?     -x-     I'm just a program to ease your life :)
-hell yeah     -x-     Woooo hoooo!!!
-what's the name of abraham lincoln's mother?     -x-     Nancy Lincoln
+what is your name?      -x-      Its Chatty!
+what do you do?      -x-      I answer questions.
+how do you do?      -x-      I'm fine.
+what are you?      -x-      That's kinda rude to ask but i'm a chatbot.
+what's your favourite emotion?      -x-      Love! But i like all others as well.
+what is my name?      -x-      I'm sorry, I'm bad with names.
+was abraham lincoln the sixteenth president of the united states?      -x-      Yes, he was.
+when did lincoln begin his political career?      -x-      1832
+who suggested lincoln grow a beard?      -x-      11-year-old Grace Bedell
+was abraham lincoln the first president of the united states?      -x-      No, he wasn't.
+who assassinated lincoln?      -x-      John Wilkes Booth
+when was abraham lincoln born?      -x-      Abraham Lincoln was born on 12 February 1809 at Hodgenville, Kentucky, United States.
+who was abraham lincoln's father?      -x-      Thomas Lincoln
+did lincoln beat john c. breckinridge in the 1860 election?      -x-      Yes, he did.
+do you love me chatty?      -x-      I am not so sure. After all I'm just a chatbot.
+is abraham lincoln dead or still alive?      -x-      He was assassinated on 15 April 1865 at Petersen House, Washington, D.C., United States.
+who are you in reality?      -x-      I'm just a program to ease your life :)
+hell yeah      -x-      Woooo hoooo!!!
+what's the name of abraham lincoln's mother?      -x-      Nancy Lincoln
+Did Lincoln's Wife's Family support slavery? -x- Yes
+How long was Lincoln's legal Career? -x- 23 years
