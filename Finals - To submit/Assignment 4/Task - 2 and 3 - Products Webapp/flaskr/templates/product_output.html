@@ -1,0 +1,15 @@
+{% if exists==True %}
+<h2 style="font-family:helvetica; font-size:25">{{res}}</h2>
+{% else %}
+<h2 style="font-family:helvetica; font-size:25">The following product has been successfully added:</h2>
+<pre style="font-family:helvetica; font-size:22;">
+   Product Name : {{prod['name']}}
+   Price : {{prod['price']}}/-
+   Warranty : {{prod['warranty']}}
+   Type : {{prod['type']}}
+   Processor :  {{prod['processor']}}
+{% endif %}
+</pre>
+<h2 style="font-family:helvetica;"><a href="http://127.0.0.1:5000/product">Add another product</a></h2>
+<h2 style="font-family:helvetica;"><a href="http://127.0.0.1:5000/query">Search for a product</a></h2>
+<h2 style="font-family:helvetica;"><a href="http://127.0.0.1:5000/">Go back to Home Page</a></h2>

@@ -1,0 +1,17 @@
+<h2 style="font-family:helvetica; font-size:25">Your search matches the following {{res['hits']['total']['value']}} products:</h2>
+{% if res['hits']['total']['value']!=0 %}
+{% for i in range(n) %}
+<pre style="font-family:helvetica; font-size:22;">
+    {{i+1}}. Product Name : {{res['hits']['hits'][i]['_source']['name']}}
+        Price : {{res['hits']['hits'][i]['_source']['price']}}/-
+        Warranty : {{res['hits']['hits'][i]['_source']['warranty']}} years
+        Type : {{res['hits']['hits'][i]['_source']['type']}}
+        Processor :  {{res['hits']['hits'][i]['_source']['processor']}}
+</pre>
+{% endfor %}
+{% else %}
+<i style="font-family:helvetica; font-size:22;">Oops!! We couldn't find the product you asked for :(</i>
+{% endif %}
+<h2 style="font-family:helvetica;font-size:23"><a href="http://127.0.0.1:5000/product">Add another product</a></h2>
+<h2 style="font-family:helvetica;font-size:23"><a href="http://127.0.0.1:5000/query">Search for a product</a></h2>
+<h2 style="font-family:helvetica;font-size:23"><a href="http://127.0.0.1:5000/">Go back to Home Page</a></h2>

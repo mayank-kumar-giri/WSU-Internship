@@ -1,0 +1,14 @@
+{
+	"_index":"currenttemphumbymonitoringsites",
+	"_type":"temphumdity",
+	"_id":"AV5X63HmAKQFPj_8Ax7k",
+	"_score":1,
+	"_source":{
+		"pin":{"location":"39.360059,-84.309939"},
+		"timestamp":"2017-09-06T16:00:01.503Z",
+		"Humidity":60,
+		"Temperature":61.7,
+		"Wind":{"wind_desc":"From the SW at 3.1 MPH Gusting to 8.1 MPH",
+			"wind_direction":"SW","feels_like":61.7}
+	}
+}
